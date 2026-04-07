@@ -9,9 +9,11 @@
 
 ## 📋 Project Description
 
-ClearCare is an AI-powered platform designed to bridge the gap between complex medical information and everyday people. Millions of patients receive lab results, diagnostic reports, or treatment plans they simply cannot understand, leading to delayed care, poor decisions, and worsening outcomes. ClearCare solves this by instantly translating medical jargon into clear, plain language across multiple languages, empowering patients to take ownership of their health.
+> *What if you finally received your diagnosis — but had no idea what it meant?*
 
-Beyond translation, the platform uses AI to match users with vetted, evidence-based health apps and resources — cutting through the noise of 10,000+ available tools. An intelligent chatbot further supports users and caregivers by answering health questions, debunking myths, and guiding them toward the right care pathways. ClearCare is available as both a web platform and mobile app, ensuring accessibility for all demographics.
+ClearCare is an AI-powered health literacy platform that turns complex medical documents into plain, understandable language — instantly. Millions of patients receive lab results or diagnoses they can't interpret, leading to delayed care and poor decisions. ClearCare bridges that gap.
+
+Beyond translation, ClearCare matches users to trusted, evidence-backed health resources, cutting through the noise of 10,000+ available tools. An AI chatbot answers health questions, busts myths, and guides users to the right care — 24/7. Available on web and mobile, in multiple languages, for everyone.
 
 ---
 
